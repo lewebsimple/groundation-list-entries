@@ -1,0 +1,16 @@
+{
+  "name": "groundation-list-entries",
+  "version": "0.1.0",
+  "description": "List entrypoints recursively from a directory.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewebsimple/groundation-list-entries.git"
+  },
+  "author": "Pascal Martineau <pascal@lewebsimple.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewebsimple/groundation-list-entries/issues"
+  },
+  "homepage": "https://github.com/lewebsimple/groundation-list-entries#readme"
+}
